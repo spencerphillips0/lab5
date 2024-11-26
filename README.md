@@ -1,6 +1,7 @@
 # Lab:
 
 ## Your name:
+Spencer Phillips
 
 ### For this lab: <br/>
 Please analyze  the `sample_.c` and `sample_.o` files, and the analyze the `sample.o` file. 
